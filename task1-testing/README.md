@@ -47,3 +47,4 @@ pytest -q tests/test_bench_items.py
 
 # (Опционально) Локально покрутить API
 uvicorn app.main:app --reload
+
